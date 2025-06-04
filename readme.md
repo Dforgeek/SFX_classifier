@@ -5,12 +5,12 @@
 
 ---
 
-## ✨ Why you’ll love it
+## ✨ Why did I make this?
 
 | 🔑 Feature                        | 🚀 Benefit                                                                            |
 | --------------------------------- | ------------------------------------------------------------------------------------- |
 | **📂 One‑liner sorting**          | Point to any directory — even thousands of files deep — and watch it organise itself. |
-| **🧠 Trained CNN under the hood** | Uses your own `SampleClassifier` weights (or ours) for studio‑grade accuracy.         |
+| **🧠 Trained CNN under the hood** | Uses our own `SampleClassifier` weights for studio‑grade accuracy.         |
 | **⚡ GPU optional**                | Harness CUDA in a single flag, or run comfortably on CPU.                             |
 | **🤝 Non‑destructive mode**       | `--copy` keeps your originals untouched; perfect for archival libraries.              |
 | **🔌 Minimal dependencies**       | `torch`, `librosa`, `numpy`, `tqdm`, `soundfile`. That’s it.                          |
